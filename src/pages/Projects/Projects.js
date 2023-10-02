@@ -30,7 +30,7 @@ const Projects = () => {
                             <div className='ad-title m-auto'>
                                 <h5 className='text-uppercase'>Portfolio Website</h5>
                             </div>
-                            <a className='ad-btn' href='view'>View</a>
+                            <a className='ad-btn' href='https://kirti-vish.github.io/my-portfolio-app/'>View</a>
                         </div>
                     </div>
                 </div>
